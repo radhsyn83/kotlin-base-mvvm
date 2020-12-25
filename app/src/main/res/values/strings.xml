@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example App</string>
+    <string name="woops">Opps!</string>
+    <string name="rto">We found trouble, please check your connection.</string>
+    <string name="no_internet">No internet connection, please check your connection.</string>
+    <string name="unknown_server">Cannot access the server, please contact admin.</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="try_again">Coba lagi</string>
+</resources>
