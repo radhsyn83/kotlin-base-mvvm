@@ -4,13 +4,18 @@ import androidx.lifecycle.ViewModelProvider
 import com.exampleapp.R
 import com.exampleapp.ui.base.BaseActivity
 import com.exampleapp.ui.example.ExampleViewModel
+import com.exampleapp.ui.maps.MapsActivity
 import com.exampleapp.utils.Logger
+import org.jetbrains.anko.startActivity
 
 class MainActivity : BaseActivity(R.layout.activity_main) {
 
     lateinit var viewModel: ExampleViewModel
 
     override fun initComponents() {
+
+        finish()
+        startActivity<MapsActivity>()
 
     }
 

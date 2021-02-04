@@ -6,4 +6,5 @@
     <string name="unknown_server">Cannot access the server, please contact admin.</string>
     <string name="something_went_wrong">Something went wrong.</string>
     <string name="try_again">Coba lagi</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
